@@ -1,0 +1,27 @@
+# Node.js / React
+node_modules/
+build/
+.env
+
+#AWS
+Backend/
+src/
+main/
+resources/
+applications.properties
+
+# IntelliJ IDEA
+.idea/
+
+# Java / Spring Boot
+target/
+.mvn/
+.classpath
+.project
+.settings/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
