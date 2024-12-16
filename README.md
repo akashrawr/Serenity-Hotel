@@ -2,6 +2,7 @@
 
 This is an ongoing full-stack project designed to integrate a **Spring Boot** backend with a **React.js** frontend. The purpose of this project is to learn and implement modern web development practices, focusing on integrating React.js with Spring Boot, JWT-based authentication, and cloud deployment.
 
+![Frontend](hotel.gif)
 ---
 
 ## Tech Stack
